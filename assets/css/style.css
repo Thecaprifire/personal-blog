@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(#ffdad5, #fff7f9);
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+#moonButton {
+    padding: 8px 12px;
+    background: linear-gradient(270deg, #ff994f, #fa6d86);
+    border-radius: 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dark-mode .header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: inherit; 
+}
+
+.dark-mode body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: #121212;
+    color: #fff; 
+}
+
+.dark-mode #moonButton{
+    padding: 8px 12px;
+    background: linear-gradient(270deg, #ff994f, #fa6d86);
+    border-radius: 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    color: #fff; 
+}
+
+.dark-mode #moonButton {
+    background: linear-gradient(270deg, #666, #333); 
+    color: #fff; 
+}
+
+.dark-mode .header-container{
+    background: #121212; 
+    color: #fff; 
+}
