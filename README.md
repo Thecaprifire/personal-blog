@@ -13,8 +13,9 @@ To use this application, follow these steps:
 5. Use the light/dark mode toggle to adjust the appearance of the website according to your preference.
 6. Click the "Back" button to return to the landing page and input more blog entries.
 
-[This is the link to the website:](https://janiandaluz.github.io/personal-blog/)
-[This is the link to the GitHub repository:](https://github.com/janiandaluz/personal-blog)
+[&rarr; This is the link to the website](https://janiandaluz.github.io/personal-blog/)
+
+[&rarr; This is the link to the GitHub repository](https://github.com/janiandaluz/personal-blog)
 
 ![Actual Website Screenshot](./assets/images/main-page.png)
 ![Actual Website Screenshot](./assets/images/main-page-prompt.png)
